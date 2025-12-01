@@ -117,6 +117,5 @@ The compiled JavaScript will be placed under `dist/apps/*`.
 
 ## License
 
-Specify your project license here (e.g. MIT) if applicable.
 
 
